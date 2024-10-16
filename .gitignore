@@ -399,3 +399,5 @@ FodyWeavers.xsd
 
 # HL Stuff
 SAVE/
+maps/graphs
+config.cfg

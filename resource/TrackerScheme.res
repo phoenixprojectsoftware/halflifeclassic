@@ -278,7 +278,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"W95FA"
 				"tall"		"24"
 				"weight"	"200"
 				"dropshadow" "0"
@@ -290,7 +290,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"W95FA"
 				"tall"		"20"
 				"weight"	"200"
 				"dropshadow" "0"
@@ -978,5 +978,6 @@ Scheme
 		"10"		"resource/linux_fonts/LiberationMono-Regular.ttf"
 		"11"		"resource/linux_fonts/FiraSans-Regular.ttf"
 		"12"		"resource/linux_fonts/FiraSans-Medium.ttf"
+		"13"	"resource/typeface/W95FA.otf"
 	}
 }

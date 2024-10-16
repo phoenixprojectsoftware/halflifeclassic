@@ -32,7 +32,7 @@
 
 
 // Half-Life Server Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Mon Apr 13 11:05:52 PM
+// File generated:  Wed Oct 16 10:32:17 PM
 //
 //
 // Cvar	-	Setting
@@ -45,7 +45,7 @@ DESCRIPTION SERVER_OPTIONS
 	{
 		"#Valve_Hostname"
 		{ STRING }
-		{ "Half-Life" }
+		{ "hiphopparappa's Server" }
 	}
 
 	"maxplayers"

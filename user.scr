@@ -48,17 +48,6 @@ DESCRIPTION INFO_OPTIONS
 		{ "300.000000" }
 	}
 
-	"sv_mp5_old_rate"
-	{
-		"#Classic_Mp5_Rate"
-		{
-			LIST
-			"#Mp5_Rate_Org" "0"
-			"#Mp5_Rate_Old" "1"
-		}
-		{ "1.000000" }
-	}
-
 	"cl_bobtilt"
 	{
 		"#Classic_Bob_Tilt"
@@ -66,11 +55,11 @@ DESCRIPTION INFO_OPTIONS
 		{ "1" }
 	}
 
-	"cl_viewroll"
+	"cl_rollangle"
 	{
 		"#Classic_View_Roll"
-		{ BOOL }
-		{ "1" }
+		{ NUMBER 0 10 }
+		{ "2" }
 	}
 
 }

@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Sat Feb 05 12:15:27 AM
+// File generated:  Wed Oct 16 21:16:07 AM
 //
 //
 // Cvar	-	Setting
@@ -52,14 +52,14 @@ DESCRIPTION INFO_OPTIONS
 	{
 		"#Classic_Bob_Tilt"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"cl_rollangle"
 	{
 		"#Classic_View_Roll"
-		{ NUMBER 0 10 }
-		{ "2" }
+		{ NUMBER 0.000000 10.000000 }
+		{ "2.000000" }
 	}
 
 }

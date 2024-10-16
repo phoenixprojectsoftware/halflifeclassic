@@ -28,16 +28,16 @@ Scheme
 		"DimListText"		"117 134 102 255"	// offline friends, unsubscribed games, etc.
 
 		// background colors
-		"ControlBG"			"76 88 68 255"		// background color of controls
-		"ControlDarkBG"		"90 106 80 255"		// darker background color; used for background of scrollbars
-		"WindowBG"			"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"		"149 136 49 255"	// background color of any selected text or menu item
-		"SelectionBG2"		"40 46 34 255"		// selection background in window w/o focus
-		"ListBG"			"62 70 55 255"		// background of server browser, buddy list, etc.
+		"ControlBG"			"70 70 70 255"		// background color of controls
+		"ControlDarkBG"		"40 40 40 255"		// darker background color; used for background of scrollbars
+		"WindowBG"			"5 5 5 255"		// background color of text edit panes (chat, text entries, etc.)
+		"SelectionBG"		"143 67 4 255"	// background color of any selected text or menu item
+		"SelectionBG2"		"120 60 5 255"		// selection background in window w/o focus
+		"ListBG"			"5 5 5 255"		// background of server browser, buddy list, etc.
 
 		// titlebar colors
-		"TitleText"			"255 255 255 255"
-		"TitleDimText"		"136 145 128 255"
+		"TitleText"			"184 95 6 255"
+		"TitleDimText"		"136 95 6 255"
 		"TitleBG"			"76 88 68 0"
 		"TitleDimBG"		"76 88 68 0"
 		
@@ -169,7 +169,7 @@ Scheme
 			"DepressedMenuColor" 		"16 16 16 255"
 			"MenuHintColor"				"104 104 104 255"
 			"WidescreenBarColor" 		"0 0 0 0"
-			"MenuItemVisibilityRate"	"0.02"  // time it takes for one menu item to appear
+			"MenuItemVisibilityRate"	"0"  // time it takes for one menu item to appear
 			"MenuItemHeight"			"48" // this is proportional to resolution
 			"GameMenuInset"				"110"
 		}
@@ -198,55 +198,61 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"W95FA"
 				"tall"		"16"
 				"weight"	"0"
+				"antialias" "1"
 			}
 		}
 		"DefaultBold"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"W95FA"
 				"tall"		"16"
 				"weight"	"500"
+				"antialias" "1"
 			}
 		}
 		"DefaultUnderline"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"W95FA"
 				"tall"		"16"
 				"weight"	"0"
 				"underline" "1"
+				"antialias" "1"
 			}
 		}
 		"DefaultSmall"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"W95FA"
 				"tall"		"13"
 				"weight"	"0"
+				"antialias" "1"
 			}
 		}
 		"DefaultSmallBold"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"W95FA"
 				"tall"		"12"
 				"weight"	"600"
+				"antialias" "1"
 			}
 		}
 		"DefaultVerySmall"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"W95FA"
 				"tall"		"12"
 				"weight"	"0"
+				"antialias" "1"
 			}
 		}
 		"MenuLarge"
@@ -302,7 +308,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"W95FA"
 				"tall"		"16"
 				"weight"	"1000"
 				"antialias" "0"
@@ -325,7 +331,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"W95FA"
 				"tall"		"13"
 				"weight"	"600"
 				"yres"	"480 599"
@@ -333,7 +339,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"W95FA"
 				"tall"		"15"
 				"weight"	"600"
 				"yres"	"600 767"
@@ -341,7 +347,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"W95FA"
 				"tall"		"16"
 				"weight"	"600"
 				"yres"	"768 1023"
@@ -349,7 +355,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"W95FA"
 				"tall"		"21"
 				"weight"	"600"
 				"yres"	"1024 1299"
@@ -357,7 +363,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"W95FA"
 				"tall"		"28"
 				"weight"	"600"
 				"yres"	"1300 1699"
@@ -365,7 +371,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"W95FA"
 				"tall"		"35"
 				"weight"	"600"
 				"yres"	"1700 1899"
@@ -373,7 +379,7 @@ Scheme
 			}
 			"7"
 			{
-				"name"		"Verdana"
+				"name"		"W95FA"
 				"tall"		"42"
 				"weight"	"600"
 				"yres"	"1900 2499"
@@ -381,7 +387,7 @@ Scheme
 			}
 			"8"
 			{
-				"name"		"Verdana"
+				"name"		"W95FA"
 				"tall"		"56"
 				"weight"	"600"
 				"yres"	"2500 2999"
@@ -389,7 +395,7 @@ Scheme
 			}
 			"9"
 			{
-				"name"		"Verdana"
+				"name"		"W95FA"
 				"tall"		"70"
 				"weight"	"600"
 				"yres"	"3000 10000"

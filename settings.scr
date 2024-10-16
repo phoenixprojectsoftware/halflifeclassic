@@ -32,7 +32,7 @@
 
 
 // Half-Life Server Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Wed Oct 16 10:32:17 PM
+// File generated:  Wed Oct 16 11:09:49 PM
 //
 //
 // Cvar	-	Setting
@@ -98,7 +98,7 @@ DESCRIPTION SERVER_OPTIONS
 	{
 		"#Valve_Teamplay"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"mp_friendlyfire"
@@ -133,7 +133,7 @@ DESCRIPTION SERVER_OPTIONS
 	{
 		"#Valve_Flashlight"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"mp_autocrosshair"

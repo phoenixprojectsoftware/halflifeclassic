@@ -1,0 +1,5 @@
+"Classic_Mp5_Rate"		"MP5 fire rate"
+"Mp5_Rate_Old"		"HLC (faster)"
+"Mp5_Rate_Org"		"Valve (original)"
+"Classic_Bob_Tilt"		"Viewmodel bob tilt"
+"Classic_View_Roll"		"Viewroll"

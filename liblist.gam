@@ -1,7 +1,7 @@
 // Valve Game Info file
 //  These are key/value pairs.  Certain mods will use different settings.
 //
-game "Half-Life Classic (2020)"
+game "Half-Life Classic"
 startmap "c0a0"
 trainmap "t0a0"
 mpentity "info_player_deathmatch"

@@ -1,15 +1,15 @@
-// Valve Game Info file
-//  These are key/value pairs.  Certain mods will use different settings.
-//
+// Made with XBLAH's Modding tool.
+// Download it at https://xblah.dev/modding-tool/
+
 game "Half-Life Classic"
 startmap "c0a0"
 trainmap "t0a0"
 mpentity "info_player_deathmatch"
 gamedll "dlls\hl.dll"
 gamedll_linux "dlls/hl.so"
-// gamedll_osx "dlls/hl.dylib"
 secure "1"
-type "multiplayer_only"
+type "both"
 animated_title "1"
 hd_background "1"
 gamedir "halflifeclassic"
+nomodels "0"

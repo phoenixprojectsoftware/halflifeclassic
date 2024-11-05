@@ -276,8 +276,8 @@ Scheme
 				"weight"	"800"
 				"dropshadow" "0"
 				"antialias"	"0"
-				"blur" "5"
-				"additive" "1"
+				"blur" "15"
+				"additive" "20"
 			}
 		}
 		"MenuHintLarge"
